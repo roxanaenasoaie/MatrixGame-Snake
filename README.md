@@ -2,7 +2,7 @@
 
 ## Task Requirements
 
-###MENU
+### MENU
 Create a menu for a game, emphasis on the game. Scroll on the LCD with the joystick. The menu should include the following functionality:
 1.  When powering up a game, a greeting message should be shown fora few moments.
 2.  Should contain roughly the following categories:
@@ -23,16 +23,18 @@ Create a menu for a game, emphasis on the game. Scroll on the LCD with the joyst
 (b)  Screen 2:  display relevant game info:  score, time, lives left etc.Must  inform  player  if  he/she  beat  the  highscore.Thismenu should only be closed by the player, pressing a button
 
 
-###GAME
+### GAME
 Minimal components: an LCD, a joystick, a buzzer and the ledmatrix.
 –Add basic sounds to the game (when ”eating” food, whendying, when finishing the level etc). Extra:add theme songs.
 –It must be intuitive and fun to play.–It must make sense in the current setup.  
 –The levels must progress dynamically.  
 
 **What I did**
+
 [![matrix.jpg](https://i.postimg.cc/jSSYCzmF/matrix.jpg)](https://postimg.cc/qzS55Cks)
 
 **Functionality**
+
 [Video](https://youtu.be/uuDMRFF1mbM)
 
 **Used Components**
